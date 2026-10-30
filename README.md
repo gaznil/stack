@@ -3,7 +3,7 @@
 Everything I use with Claude Code and Codex: skills, plugins, connectors, libraries and tools, sorted by job.
 Purpose: start any new project without researching again, and rebuild my setup on a new PC.
 
-Snapshot: 28 Oct 2026. 316 skills · 10 plugins · 30 connectors.
+Snapshot: 28 Oct 2026. 316 skills · 11 plugins · 30 connectors.
 
 - **Public (this repo):** what each thing is, where it comes from, how to install it.
 - **Private (`gaznil/stack-backup`):** copies of skills that have no public source, plus my Claude rules and
@@ -89,6 +89,7 @@ Install: `claude plugin marketplace add <source>` then `claude plugin install <n
 | `codex` | openai/codex-plugin-cc | Hand tasks to OpenAI Codex |
 | `github`, `context7`, `supabase`, `typescript-lsp` | anthropics/claude-plugins-official | GitHub, library docs, Supabase, TS language server |
 | `chatcut` | github.com/ChatCut-Inc/agent-plugin | Video editing in ChatCut |
+| `cli-anything` | HKUDS/CLI-Anything | `/cli-anything <app>` builds a CLI so Claude can drive any app |
 | `auth-skills` | better-auth/skills | Better Auth setup |
 | `openseo` | every-app/open-seo | SEO research tools |
 | `floorplan` | haydenschmitty/floorplan | Floor plans |
