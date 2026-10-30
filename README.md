@@ -3,7 +3,7 @@
 Everything I use with Claude Code and Codex: skills, plugins, connectors, libraries and tools, sorted by job.
 Purpose: start any new project without researching again, and rebuild my setup on a new PC.
 
-Snapshot: 28 Oct 2026. 315 skills · 10 plugins · 30 connectors.
+Snapshot: 28 Oct 2026. 316 skills · 10 plugins · 30 connectors.
 
 - **Public (this repo):** what each thing is, where it comes from, how to install it.
 - **Private (`gaznil/stack-backup`):** copies of skills that have no public source, plus my Claude rules and
@@ -22,7 +22,7 @@ Snapshot: 28 Oct 2026. 315 skills · 10 plugins · 30 connectors.
 | Word, PDF, PowerPoint, Excel | [07 Docs](skills/07-docs.md) |
 | Notes and second brain | [01 Second brain](skills/01-brain.md) + the Obsidian plugin |
 
-## Skills (all 315, by group)
+## Skills (all 316, by group)
 
 | # | Group | Count |
 |---|---|---|
@@ -33,7 +33,7 @@ Snapshot: 28 Oct 2026. 315 skills · 10 plugins · 30 connectors.
 | 5 | [Web design, frontend and web motion](skills/05-web.md) | 80 |
 | 6 | [SEO, blog, content and marketing](skills/06-seo.md) | 85 |
 | 7 | [Documents, office files and slides](skills/07-docs.md) | 13 |
-| 8 | [Coding workflow, databases, auth and agents](skills/08-dev.md) | 28 |
+| 8 | [Coding workflow, databases, auth and agents](skills/08-dev.md) | 29 |
 
 Skills live in `~/.claude/skills` (Claude Code), `~/.agents/skills` (shared, installed with `npx skills add`) and
 `~/.codex/skills` (Codex). Each group file says where every skill came from.

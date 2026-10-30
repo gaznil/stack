@@ -1,12 +1,13 @@
 # Coding workflow, databases, auth and agents
 
-28 skills. "Source" = where it came from (re-install from there). "Backup" = no public source known; a copy is in the private repo `gaznil/stack-backup`.
+29 skills. "Source" = where it came from (re-install from there). "Backup" = no public source known; a copy is in the private repo `gaznil/stack-backup`.
 
 | Skill | What it does | Source |
 |---|---|---|
 | `better-auth-emailAndPassword` | Configure email verification, implement password reset flows, set password policies, and customise hashing algorithms for Better Auth email/password authentication. Use when users need to set up login, sign-in, sign-u… | Backup |
 | `better-auth-organization` | Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams, and implement RBAC using Better Auth's organization plugin. Use when users need org setup, team … | Backup |
 | `changelog-generator` | Automatically creates user-facing changelogs from git commits by analyzing commit history, categorizing changes, and transforming technical commits into clear, customer-friendly release notes. Turns hours of manual ch… | Backup |
+| `cli-anything` | Builds an agent-usable command-line tool (CLI) for any desktop app or code repo (GIMP, Blender, LibreOffice…), so Claude/Codex can drive it. Full Claude Code version is the `cli-anything` plugin (marketplace `HKUDS/CLI-Anything`). | [link](https://github.com/HKUDS/CLI-Anything) |
 | `claude-api` | Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration. TRIGGER — read BEFORE opening the target file; don't skip because … | Backup |
 | `connect` | Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ services. | Backup |
 | `connect-apps` | Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions in external services. | Backup |
