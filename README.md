@@ -58,6 +58,7 @@ a 3D moment earns it. Libraries are installed per project with npm, only when us
 | Page transitions | Barba, View Transitions | `barba-js`, `react-view-transitions` |
 | Particles | tsParticles | `web-motion-extras` |
 | 3D scene editing | Theatre.js | `web-motion-extras` |
+| Motion effects for videos (from @m4lkxx's list, 2 Nov 2026; npm per project, Blender from blender.org only) | Smoke/fluid: WebGL-Fluid-Simulation · Glitch, bloom, chromatic aberration: pmndrs postprocessing · Shape morph: Flubber · Living mesh gradients: ShaderGradient · Hand-drawn look: Rough.js · Beat-driven visuals: Hydra · Liquid chrome and noise shaders: LYGIA · CRT, old film, shockwaves: PixiJS Filters · Tilt-shift, swirl, bulge: glfx.js · Confetti: canvas-confetti · Fireworks: fireworks-js · Fog/wave/net backgrounds: Vanta · Face tracking: MediaPipe · Photoreal 3D scans: GaussianSplats3D · Magic particles: three-nebula · Flat pseudo-3D: Zdog · Shader effects on any element: VFX-JS | `threejs-postprocessing`, `threejs-shaders`, `lightweight-3d-effects`, `pixijs-2d`, `blender-*` |
 | Share images per page | Satori / `next/og` | `web-motion-extras` |
 | Design judgement | — | `impeccable`, `design-taste-frontend`, `ui-ux-pro-max`, `frontend-design`, `awwwards-animations` |
 
