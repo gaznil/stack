@@ -1,6 +1,6 @@
 # Video, motion films, audio and image generation
 
-35 skills. "Source" = where it came from (re-install from there). "Backup" = no public source known; a copy is in the private repo `gaznil/stack-backup`.
+37 skills. "Source" = where it came from (re-install from there). "Backup" = no public source known; a copy is in the private repo `gaznil/stack-backup`.
 
 | Skill | What it does | Source |
 |---|---|---|
@@ -28,6 +28,7 @@
 | `pr-to-video` | Turn a GitHub pull request (a PR URL, owner/repo#N, or 'this PR' in a checked-out repo) into a code-change explainer video — changelog, feature reveal, fix, or refactor walkthrough built from the diff, commits, and fi… | [link](https://github.com/heygen-com/hyperframes) |
 | `product-launch-video` | Turn a product or marketing URL, pasted script, or brief into a product launch / promo video — SaaS promos, feature reveals, product demos, app and company launches. Use when the user wants to market, launch, promote,… | [link](https://github.com/heygen-com/hyperframes) |
 | `prompt-guy` | Use ONLY when the user (Gaznil) says "prompt guy" - he wants a paste-ready prompt for any video (an edit of his footage, a motion film, launch, ad, explainer, showreel, music video), or "prompt guy: notes" - a follow-… | Backup |
+| `real-sfx` | Sound-designs motion videos with real recorded sounds: finds the moments in the picture, places real recordings on the exact frame, keeps voice and music, outputs a new MP4 plus an SFX track. Ships 78 CC0 UI sounds; add your own library with `scripts/setup.py`. | [link](https://github.com/Clipwing/skills/tree/main/skills/real-sfx) |
 | `remotion-to-hyperframes` | Port an existing Remotion (React) composition''s source to HyperFrames HTML. Use ONLY on an explicit ask to port/convert/migrate/translate a Remotion source — one-way, Remotion-only. A passing Remotion mention, refere… | [link](https://github.com/heygen-com/hyperframes) |
 | `screenwriter` | Скилл-инструмент для сценариста полнометражного фильма или сериала. Используй всегда, когда пользователь хочет писать сценарий, поэпизодник, разрабатывать сцены, бит-шит, диалоги, делать ревизии, считать экранное врем… | Backup |
 | `seedance-2-pro-director` | Elite AI film prompt director for Seedance 2.0. Use this skill whenever the user wants a single production-ready Seedance 2.0 prompt for high-budget AI cinema with strict character anchoring, screen positioning, pose … | Backup |

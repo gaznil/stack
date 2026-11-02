@@ -29,7 +29,7 @@ Snapshot: 28 Oct 2026. 316 skills · 11 plugins · 30 connectors.
 | 1 | [Second brain and productivity (Obsidian)](skills/01-brain.md) | 2 |
 | 2 | [Research, scraping and data](skills/02-research.md) | 36 |
 | 3 | [3D, Blender and textures](skills/03-3d.md) | 36 |
-| 4 | [Video, motion films, audio and image generation](skills/04-video.md) | 36 |
+| 4 | [Video, motion films, audio and image generation](skills/04-video.md) | 37 |
 | 5 | [Web design, frontend and web motion](skills/05-web.md) | 80 |
 | 6 | [SEO, blog, content and marketing](skills/06-seo.md) | 85 |
 | 7 | [Documents, office files and slides](skills/07-docs.md) | 13 |
@@ -77,7 +77,8 @@ Remotion is free for teams of up to 3 people, but it's not installed so it doesn
 Sound effects (2 Nov 2026): **earshot** in `C:\Projects\tools\earshot` (run `.venv\Scripts\python.exe -m earshot`; 252 code-made SFX
 rendered by id with measured sync, plus listening/critique models, CPU only, MIT; github.com/Leonxlnx/earshot). Real CC0
 recordings: Openverse API `https://api.openverse.org/v1/audio/?q=<word>&license=cc0` (no key, 20 results/page).
-Clipwing **real-sfx** skill cloned in `C:\Projects\tools\clipwing-skills` - not yet added to skills (waits for the user's yes).
+Clipwing **real-sfx** skill installed 2 Nov 2026 (`~/.claude/skills/real-sfx`, source clone `C:\Projects\tools\clipwing-skills`):
+places real recorded SFX on exact frames; its 78 CC0 UI sounds are set up, no own sound library added yet.
 
 ## 3D stack
 
