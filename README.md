@@ -74,10 +74,10 @@ Skills: `prisma-*`, `neon-*`, Supabase plugin, `better-auth-*`, `react-best-prac
 HyperFrames (HTML to video) is the engine; my skills `motion-king` (videos from nothing) and `edit-king` (my footage).
 FFmpeg is installed. AI video and images: Higgsfield, Krea, Seedance skills. Captions and audio: `hyperframes-audio`.
 Remotion is free for teams of up to 3 people, but it's not installed so it doesn't clash with HyperFrames.
-Sound effects (2 Nov 2026): **earshot** in `C:\Projects	ools\earshot` (run `.venv\Scripts\python.exe -m earshot`; 252 code-made SFX
+Sound effects (2 Nov 2026): **earshot** in `C:\Projects\tools\earshot` (run `.venv\Scripts\python.exe -m earshot`; 252 code-made SFX
 rendered by id with measured sync, plus listening/critique models, CPU only, MIT; github.com/Leonxlnx/earshot). Real CC0
 recordings: Openverse API `https://api.openverse.org/v1/audio/?q=<word>&license=cc0` (no key, 20 results/page).
-Clipwing **real-sfx** skill cloned in `C:\Projects	ools\clipwing-skills` - not yet added to skills (waits for the user's yes).
+Clipwing **real-sfx** skill cloned in `C:\Projects\tools\clipwing-skills` - not yet added to skills (waits for the user's yes).
 
 ## 3D stack
 
