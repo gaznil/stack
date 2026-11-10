@@ -72,7 +72,7 @@ Skills: `prisma-*`, `neon-*`, Supabase plugin, `better-auth-*`, `react-best-prac
 ## Video stack
 
 HyperFrames (HTML to video) is the engine; my skills `motion-king` (videos from nothing) and `edit-king` (my footage).
-FFmpeg is installed. AI video and images: Higgsfield, Krea, Seedance skills. Captions and audio: `hyperframes-audio`.
+FFmpeg is installed. B-roll / free stock footage: OpenMontage (`C:\Projects\OpenMontage`, local only - AGPL, never copy into a public repo; Archive.org, NASA, Wikimedia free, Pexels/Pixabay with free keys). AI video and images: Higgsfield, Krea, Seedance skills. Captions and audio: `hyperframes-audio`.
 Remotion is free for teams of up to 3 people, but it's not installed so it doesn't clash with HyperFrames.
 Sound effects (2 Nov 2026): **earshot** in `C:\Projects\tools\earshot` (run `.venv\Scripts\python.exe -m earshot`; 252 code-made SFX
 rendered by id with measured sync, plus listening/critique models, CPU only, MIT; github.com/Leonxlnx/earshot). Real CC0
