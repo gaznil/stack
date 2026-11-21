@@ -16,6 +16,7 @@ Snapshot: 28 Oct 2026. 316 skills · 11 plugins · 30 connectors.
 | A website or landing page | [Web stack](#web-stack) + skills in [05 Web](skills/05-web.md) |
 | A web app (Next.js) | [App stack](#app-stack) + [08 Dev](skills/08-dev.md) |
 | A video, reel, promo or motion film | [Video stack](#video-stack) + [04 Video](skills/04-video.md) |
+| A new KIND of video (explainer style, collage, stickman, math, launch…) | [video-styles.md](video-styles.md): code-made video repos by type, with licences |
 | A 3D model, logo or render | [3D stack](#3d-stack) + [03 3D](skills/03-3d.md) |
 | SEO, a blog, ads, copy | [06 SEO and content](skills/06-seo.md) |
 | Research or scraping | [02 Research](skills/02-research.md) + Firecrawl / Apify connectors |
@@ -72,6 +73,7 @@ Skills: `prisma-*`, `neon-*`, Supabase plugin, `better-auth-*`, `react-best-prac
 ## Video stack
 
 HyperFrames (HTML to video) is the engine; my skills `motion-king` (videos from nothing) and `edit-king` (my footage).
+Other people's code-video skills and styles, sorted by type with licences: [video-styles.md](video-styles.md) - check it before researching a new video type.
 FFmpeg is installed. B-roll / free stock footage: OpenMontage (`C:\Projects\OpenMontage`, local only - AGPL, never copy into a public repo; Archive.org, NASA, Wikimedia free, Pexels/Pixabay with free keys). AI video and images: Higgsfield, Krea, Seedance skills. Captions and audio: `hyperframes-audio`.
 Remotion is free for teams of up to 3 people, but it's not installed so it doesn't clash with HyperFrames.
 Sound effects (2 Nov 2026): **earshot** in `C:\Projects\tools\earshot` (run `.venv\Scripts\python.exe -m earshot`; 252 code-made SFX
